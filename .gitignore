@@ -1,0 +1,46 @@
+# Node modules
+/node_modules/
+
+# Build output
+/build/
+/dist/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Next.js build directory (if you're using Next.js)
+.next/
+
+# VS Code settings
+.vscode/
+
+# MacOS Finder files
+.DS_Store
+
+# npm package-lock file (if you're using Yarn)
+yarn.lock
+
+# npm package-lock file (if you're using npm)
+package-lock.json
+
+# IDE settings
+.idea/
+
+# Coverage reports
+coverage/
+
+# Jest test coverage
+*.lcov
+
+# React Native
+.expo/
+
+# TypeScript
+*.tsbuildinfo
